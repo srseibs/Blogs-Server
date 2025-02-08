@@ -2,25 +2,25 @@
   {
     "id" : 1,
     "title": "Mastering Markdown: A Beginners' Guid to formatting like a Pro!",
-    "thumbnail_url": "",
+    "thumbnail_url": "https://github.com/srseibs/Blogs-Server/blob/main/images/DSC00493.JPG?raw=true",
     "content_url" : "https://raw.githubusercontent.com/srseibs/Blogs-Server/refs/heads/main/blogs/blog1.md"
   },
   {
     "id" : 2,
     "title": "Understanding JSON: A Comprehensive Guide",
-    "thumbnail_url": "",
+    "thumbnail_url": "https://github.com/srseibs/Blogs-Server/blob/main/images/curly-howard.jpg?raw=true",
     "content_url" : "https://raw.githubusercontent.com/srseibs/Blogs-Server/refs/heads/main/blogs/blog2.md"
   },
   {
     "id" : 3,
     "title": "A Complete Guide to Room Database in Android for Efficient Data Storage",
-    "thumbnail_url": "",
+    "thumbnail_url": "https://github.com/srseibs/Blogs-Server/blob/main/images/DSC00898.JPG?raw=true",
     "content_url" : "https://raw.githubusercontent.com/srseibs/Blogs-Server/refs/heads/main/blogs/blog3.md"
   },
   {
     "id" : 4,
     "title": "Mastering Markdown: A Beginners' Guid to formatting like a Pro!",
-    "thumbnail_url": "",
+    "thumbnail_url": "https://github.com/srseibs/Blogs-Server/blob/main/images/20220520_083528_resized%20(1).jpg?raw=true",
     "content_url" : "https://raw.githubusercontent.com/srseibs/Blogs-Server/refs/heads/main/blogs/blog4.md"
   }
 ]
